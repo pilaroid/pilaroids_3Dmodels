@@ -1,4 +1,6 @@
-# pilaroids_3Dmodels
+# 3D models for Pilaroids
+![Pilaroids Logo](docs/pilaroid_logo.png)
+
 ![Photo Pilaroids](docs/pilaroid_photo.png)
 
 
