@@ -3,6 +3,7 @@
 
 ![Photo Pilaroids](docs/pilaroid_photo.png)
 
+# [📁 Downloads](https://github.com/usini/pilaroids_3Dmodels/archive/refs/heads/main.zip)
 
 
 Fork from [Interaction Research Studio - VisionCam Compact](https://github.com/interactionresearchstudio/VisionCam_Compact_Box)
