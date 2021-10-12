@@ -13,6 +13,16 @@ Fork from [Interaction Research Studio - VisionCam Compact](https://github.com/i
 * Swapped camera for Panorama
 * Added a handle made with a [Anker PowerCore 5000](https://us.anker.com/collections/portable-power/products/a1109)
 
+# Components neededs
+* Raspberry Pi 3b+
+* Camera Module v2 8mp (or compatible)
+* MicroSD card 16gb (minimum)
+* USB Drive
+* Adafruit PiTFT 2.2 Hat Mini Kit
+* Anker PowerBank 5000mAh
+* 15cm USB cable
+
+
 # Files
 ![STL preview for the VisionCam](docs/stl_preview.png)
 
